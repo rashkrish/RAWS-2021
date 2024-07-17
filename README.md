@@ -8,7 +8,7 @@ Gaussian distribution on voltage data, visualizing power time series, analyzing 
 in frequency bins (Power Spectral Density), visualizing the Dynamic Spectrum to observe changes
 in power spectral density over time, obtaining de-dispersed dynamic spectrum across all spectral
 bins to derive a single time series, and finally plotting the single frequency-integrated time series.
-<br>
+
 ### AIM :-
 1) Visualize the voltage time-series
 2) Plot and characterize the distribution of the telescope voltage data
