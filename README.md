@@ -8,7 +8,7 @@
 - During the Radio Astronomy Winter School (RAWS) 2021, I performed data analysis tasks using
 Python, focusing on ”Detecting a pulsar in Ooty Radio Telescope (ORT) voltage data.”
 <br/>
-**AIM :-**
+**AIM :-** <br/>
 1) Visualize the voltage time-series
 2) Plot and characterize the distribution of the telescope voltage data
 3) Visualize the power time-series
