@@ -1,13 +1,12 @@
 # RAWS-2021
 ## Detecting a Pulsar in Ooty Radio Telescope Voltage Data
-
+**Key Contributions:**
+- Developed Python scripts to process and analyze Ooty Radio Telescope voltage signals, visualizing voltage time series and plotting a Gaussian distribution to model the signal data.
+- Implemented Fast Fourier Transformation (FFT) to calculate the Power Spectral Density (PSD), enabling the analysis of power distribution in frequency bins and visualizing changes in the power spectrum over time using a Dynamic Spectrum.
+- Conducted de-dispersion of the dynamic spectrum across spectral bins, resulting in a single time series for further analysis, and integrated the frequency data to produce a final time series plot for pulsar detection.
+### OVERVIEW
 - During the Radio Astronomy Winter School (RAWS) 2021, I performed data analysis tasks using
 Python, focusing on ”Detecting a pulsar in Ooty Radio Telescope (ORT) voltage data.”
-- My responsibilities included processing voltage signals, visualizing voltage time series, plotting a
-Gaussian distribution on voltage data, visualizing power time series, analyzing power distribution
-in frequency bins (Power Spectral Density), visualizing the Dynamic Spectrum to observe changes
-in power spectral density over time, obtaining de-dispersed dynamic spectrum across all spectral
-bins to derive a single time series, and finally plotting the single frequency-integrated time series.
 
 ### AIM :-
 1) Visualize the voltage time-series
